@@ -48,7 +48,7 @@ The dataset can be downloaded from [Kaggle's Titanic Dataset](https://www.kaggle
 
 **Model Creation:** A deep learning model was built and trained using TensorFlow and Keras.
 
-**Model Training and Evaluation:** The model was trained and evaluated using training and test datasets. After completing the training, the model's performance on the validation dataset was assessed, showing an accuracy of 85%. This accuracy represents a significant improvement compared to the results obtained using simple machine learning algorithms.
+**Model Training and Evaluation:** The model was trained and evaluated using training and test datasets. After completing the training, the model's performance on the validation dataset was assessed, showing an accuracy of 90%. This accuracy represents a significant improvement compared to the results obtained using simple machine learning algorithms.
 
 ## Notes
 
